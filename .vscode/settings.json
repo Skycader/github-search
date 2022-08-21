@@ -1,0 +1,5 @@
+{
+    "eslint-service.allowInlineConfig": false,
+    "eslint-service.suppreccConfigNotFoundError": false,
+    "eslint-service.reportUnusedDisableDirectives": false
+}
